@@ -3003,33 +3003,9 @@ amiri-regular
  44
 1
   0
-LINE
-  5
-5B
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-4.913073355334166
- 20
-189.7674583497822
- 11
-259.2120843711747
- 21
-189.7674583497821
-  0
 MTEXT
   5
-5C
+5B
 100
 AcDbEntity
   8
@@ -3075,7 +3051,7 @@ amiri-regular
   0
 MTEXT
   5
-5D
+5C
 100
 AcDbEntity
   8
@@ -3121,7 +3097,7 @@ amiri-regular
   0
 MTEXT
   5
-5E
+5D
 100
 AcDbEntity
   8
@@ -3167,7 +3143,7 @@ amiri-regular
   0
 MTEXT
   5
-5F
+5E
 100
 AcDbEntity
   8
@@ -3213,7 +3189,7 @@ amiri-regular
   0
 MTEXT
   5
-60
+5F
 100
 AcDbEntity
   8
