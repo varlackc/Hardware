@@ -1109,7 +1109,7 @@ AcDbViewportTableRecord
  12
 194.0239425960336
  22
-99.7679932098923
+100.1354627981424
  13
 0
  23
@@ -1135,9 +1135,9 @@ AcDbViewportTableRecord
  37
 0
  40
-196.228760125534
+196.9636993020341
  41
-1.962546816479401
+1.955223880597015
  42
 50
  43
@@ -3027,33 +3027,9 @@ AcDbLine
  21
 189.7674583497821
   0
-LINE
-  5
-5C
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-3.684805016500624
- 20
-93.96252792076592
- 11
-259.7794900341411
- 21
-93.96252792076587
-  0
 MTEXT
   5
-5D
+5C
 100
 AcDbEntity
   8
@@ -3099,7 +3075,7 @@ amiri-regular
   0
 MTEXT
   5
-5E
+5D
 100
 AcDbEntity
   8
@@ -3145,7 +3121,7 @@ amiri-regular
   0
 MTEXT
   5
-5F
+5E
 100
 AcDbEntity
   8
@@ -3191,7 +3167,7 @@ amiri-regular
   0
 MTEXT
   5
-60
+5F
 100
 AcDbEntity
   8
@@ -3237,7 +3213,7 @@ amiri-regular
   0
 MTEXT
   5
-61
+60
 100
 AcDbEntity
   8
