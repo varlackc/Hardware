@@ -31,7 +31,7 @@ $EXTMIN
   9
 $EXTMAX
  10
-130.15
+132.5625
  20
 -19
  30
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-64.33991840918306
+64.78507576966018
  22
--9.406161179102767
+-9.341580935559001
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-6.799328917058777
+9.994186390138971
  41
-1.949626865671642
+1.916044776119403
  42
 50
  43
@@ -6252,6 +6252,366 @@ AcDbLine
 125.5
  21
 -22.5
+  0
+LINE
+  5
+C6
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+126
+ 20
+-21.8
+ 11
+126
+ 21
+-21.8
+  0
+LINE
+  5
+C7
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+126
+ 20
+-19.70000000000001
+ 11
+126.7
+ 21
+-19
+  0
+LINE
+  5
+C8
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+126
+ 20
+-20.4
+ 11
+127.4
+ 21
+-19
+  0
+LINE
+  5
+C9
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+126
+ 20
+-21.1
+ 11
+128.1
+ 21
+-19
+  0
+LINE
+  5
+CA
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+126
+ 20
+-21.8
+ 11
+128.8
+ 21
+-19
+  0
+LINE
+  5
+CB
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+126.4375
+ 20
+-22.5
+ 11
+129.5
+ 21
+-19.4375
+  0
+LINE
+  5
+CC
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+127.3125
+ 20
+-22.5
+ 11
+129.5
+ 21
+-20.31249999999997
+  0
+LINE
+  5
+CD
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+128.1875
+ 20
+-22.5
+ 11
+129.5
+ 21
+-21.1875
+  0
+LINE
+  5
+CE
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+129.0625
+ 20
+-22.5
+ 11
+129.5
+ 21
+-22.0625
+  0
+LINE
+  5
+CF
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+119
+ 20
+-23.120002
+ 11
+122.5
+ 21
+-23.120002
+  0
+LINE
+  5
+D0
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+119
+ 20
+-23.703335
+ 11
+122.5
+ 21
+-23.703335
+  0
+LINE
+  5
+D1
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+119
+ 20
+-24.286668
+ 11
+122.5
+ 21
+-24.286668
+  0
+LINE
+  5
+D2
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+119
+ 20
+-24.870001
+ 11
+122.5
+ 21
+-24.870001
+  0
+LINE
+  5
+D3
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+119
+ 20
+-25.453334
+ 11
+122.5
+ 21
+-25.453334
+  0
+LINE
+  5
+D4
+100
+AcDbEntity
+  8
+1 - first version
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+119
+ 20
+-26.036667
+ 11
+122.5
+ 21
+-26.036667
   0
 ENDSEC
   0
