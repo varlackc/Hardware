@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-6.452408565062123
+6.895249894070942
  22
--0.7438433466425504
+-0.5535306557180015
  13
 0
  23
@@ -1149,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-3.301577113337034
+3.753893177864213
  41
 1.648203592814371
  42
@@ -7045,62 +7045,6 @@ ByLayer
 100
 AcDbCircle
  10
-10.32151548789183
- 20
--2.042444446101277
- 40
-0.7500000000000111
-100
-AcDbArc
- 50
-75.24743312102233
- 51
-60.17334570408384
-  0
-ARC
-  5
-FF
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-10.32151548789183
- 20
--2.042444446101277
- 40
-0.5599999999999918
-100
-AcDbArc
- 50
-79.76601564800362
- 51
-420.2317869227242
-  0
-ARC
-  5
-100
-100
-AcDbEntity
-  8
-0
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
 11.125
  20
 -1.749999999999992
@@ -7115,7 +7059,7 @@ AcDbArc
   0
 ARC
   5
-101
+FF
 100
 AcDbEntity
   8
@@ -7143,7 +7087,7 @@ AcDbArc
   0
 ARC
   5
-102
+100
 100
 AcDbEntity
   8
@@ -7171,7 +7115,7 @@ AcDbArc
   0
 ARC
   5
-103
+101
 100
 AcDbEntity
   8
@@ -7199,7 +7143,7 @@ AcDbArc
   0
 ARC
   5
-104
+102
 100
 AcDbEntity
   8
@@ -7227,7 +7171,7 @@ AcDbArc
   0
 ARC
   5
-105
+103
 100
 AcDbEntity
   8
@@ -7255,7 +7199,7 @@ AcDbArc
   0
 ARC
   5
-106
+104
 100
 AcDbEntity
   8
@@ -7283,7 +7227,7 @@ AcDbArc
   0
 ARC
   5
-107
+105
 100
 AcDbEntity
   8
@@ -7311,7 +7255,7 @@ AcDbArc
   0
 ARC
   5
-108
+106
 100
 AcDbEntity
   8
@@ -7339,7 +7283,7 @@ AcDbArc
   0
 ARC
   5
-109
+107
 100
 AcDbEntity
   8
@@ -7367,7 +7311,7 @@ AcDbArc
   0
 ARC
   5
-10A
+108
 100
 AcDbEntity
   8
@@ -7395,7 +7339,7 @@ AcDbArc
   0
 ARC
   5
-10B
+109
 100
 AcDbEntity
   8
@@ -7423,7 +7367,7 @@ AcDbArc
   0
 ARC
   5
-10C
+10A
 100
 AcDbEntity
   8
@@ -7451,7 +7395,7 @@ AcDbArc
   0
 ARC
   5
-10D
+10B
 100
 AcDbEntity
   8
@@ -7479,7 +7423,7 @@ AcDbArc
   0
 ARC
   5
-10E
+10C
 100
 AcDbEntity
   8
@@ -7507,7 +7451,7 @@ AcDbArc
   0
 ARC
   5
-10F
+10D
 100
 AcDbEntity
   8
@@ -7535,7 +7479,7 @@ AcDbArc
   0
 ARC
   5
-110
+10E
 100
 AcDbEntity
   8
@@ -7563,7 +7507,7 @@ AcDbArc
   0
 ARC
   5
-111
+10F
 100
 AcDbEntity
   8
@@ -7591,7 +7535,7 @@ AcDbArc
   0
 ARC
   5
-112
+110
 100
 AcDbEntity
   8
@@ -7619,7 +7563,7 @@ AcDbArc
   0
 ARC
   5
-113
+111
 100
 AcDbEntity
   8
@@ -7647,7 +7591,7 @@ AcDbArc
   0
 ARC
   5
-114
+112
 100
 AcDbEntity
   8
@@ -7675,7 +7619,7 @@ AcDbArc
   0
 ARC
   5
-115
+113
 100
 AcDbEntity
   8
@@ -7703,7 +7647,7 @@ AcDbArc
   0
 ARC
   5
-116
+114
 100
 AcDbEntity
   8
@@ -7731,7 +7675,7 @@ AcDbArc
   0
 ARC
   5
-117
+115
 100
 AcDbEntity
   8
@@ -7759,7 +7703,7 @@ AcDbArc
   0
 ARC
   5
-118
+116
 100
 AcDbEntity
   8
@@ -7787,7 +7731,7 @@ AcDbArc
   0
 ARC
   5
-119
+117
 100
 AcDbEntity
   8
@@ -7815,7 +7759,7 @@ AcDbArc
   0
 ARC
   5
-11A
+118
 100
 AcDbEntity
   8
@@ -7843,7 +7787,7 @@ AcDbArc
   0
 ARC
   5
-11B
+119
 100
 AcDbEntity
   8
@@ -7871,7 +7815,7 @@ AcDbArc
   0
 ARC
   5
-11C
+11A
 100
 AcDbEntity
   8
@@ -7899,7 +7843,7 @@ AcDbArc
   0
 ARC
   5
-11D
+11B
 100
 AcDbEntity
   8
@@ -7927,7 +7871,7 @@ AcDbArc
   0
 ARC
   5
-11E
+11C
 100
 AcDbEntity
   8
@@ -7955,7 +7899,7 @@ AcDbArc
   0
 ARC
   5
-11F
+11D
 100
 AcDbEntity
   8
@@ -7983,7 +7927,7 @@ AcDbArc
   0
 ARC
   5
-120
+11E
 100
 AcDbEntity
   8
@@ -8011,7 +7955,7 @@ AcDbArc
   0
 ARC
   5
-121
+11F
 100
 AcDbEntity
   8
@@ -8039,7 +7983,7 @@ AcDbArc
   0
 ARC
   5
-122
+120
 100
 AcDbEntity
   8
@@ -8067,7 +8011,7 @@ AcDbArc
   0
 ARC
   5
-123
+121
 100
 AcDbEntity
   8
@@ -8095,7 +8039,7 @@ AcDbArc
   0
 ARC
   5
-124
+122
 100
 AcDbEntity
   8
@@ -8123,7 +8067,7 @@ AcDbArc
   0
 ARC
   5
-125
+123
 100
 AcDbEntity
   8
@@ -8151,7 +8095,7 @@ AcDbArc
   0
 ARC
   5
-126
+124
 100
 AcDbEntity
   8
@@ -8179,7 +8123,7 @@ AcDbArc
   0
 ARC
   5
-127
+125
 100
 AcDbEntity
   8
@@ -8207,7 +8151,7 @@ AcDbArc
   0
 ARC
   5
-128
+126
 100
 AcDbEntity
   8
@@ -8235,7 +8179,7 @@ AcDbArc
   0
 ARC
   5
-129
+127
 100
 AcDbEntity
   8
@@ -8263,7 +8207,7 @@ AcDbArc
   0
 ARC
   5
-12A
+128
 100
 AcDbEntity
   8
@@ -8291,7 +8235,7 @@ AcDbArc
   0
 ARC
   5
-12B
+129
 100
 AcDbEntity
   8
@@ -8319,7 +8263,7 @@ AcDbArc
   0
 ARC
   5
-12C
+12A
 100
 AcDbEntity
   8
@@ -8344,6 +8288,118 @@ AcDbArc
 143.5573097619222
  51
 160.1733457040806
+  0
+ARC
+  5
+12B
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+10.32151548789183
+ 20
+-2.042444446101277
+ 40
+0.5599999999999918
+100
+AcDbArc
+ 50
+299.766015648002
+ 51
+420.2317869227242
+  0
+ARC
+  5
+12C
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+10.32151548789183
+ 20
+-2.042444446101277
+ 40
+0.5599999999999918
+100
+AcDbArc
+ 50
+79.76601564800362
+ 51
+280.2317869227201
+  0
+ARC
+  5
+12D
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+10.32151548789183
+ 20
+-2.042444446101277
+ 40
+0.7500000000000111
+100
+AcDbArc
+ 50
+295.2474331210211
+ 51
+60.17334570408384
+  0
+ARC
+  5
+12E
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+10.32151548789183
+ 20
+-2.042444446101277
+ 40
+0.7500000000000111
+100
+AcDbArc
+ 50
+75.24743312102233
+ 51
+280.1733457040807
   0
 ENDSEC
   0
