@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
-0
+96.46446609406728
  20
-0
+-3.183976519938181e-016
  30
 0
   9
 $EXTMAX
  10
-0
+106.3
  20
-0
+5
  30
 0
   9
@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-Construction
+0
   9
 $CELTYPE
   6
@@ -801,6 +801,10 @@ $PEXTMAX
  30
 0
   9
+$GRIDMODE
+ 70
+    1
+  9
 $SNAPSTYLE
  70
     0
@@ -1111,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-122.125
+50.0231392911598
  22
-60.75
+0.3346849235009741
  13
 0
  23
@@ -1139,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-134
+0.5362963198700214
  41
 1.916044776119403
  42
@@ -2411,7 +2415,7 @@ Standard
  70
     0
  40
-1
+2.5
  41
 0.1
  42
@@ -2435,7 +2439,7 @@ Standard
 141
 0.09
 142
-2.5
+0
 143
 25.4
 144
@@ -2463,7 +2467,7 @@ Standard
  77
     0
  78
-    1
+    8
  79
     0
 170
@@ -2501,7 +2505,7 @@ Standard
 277
     2
 278
-    0
+   44
 279
     0
 280
@@ -2523,7 +2527,7 @@ Standard
 289
     3
 340
-standard
+STANDARD
 341
 
 371
@@ -2670,6 +2674,126 @@ ENDSEC
 SECTION
   2
 ENTITIES
+  0
+LINE
+  5
+4E
+100
+AcDbEntity
+  8
+Construction
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+100
+ 20
+0
+ 11
+100
+ 21
+5
+  0
+LINE
+  5
+4F
+100
+AcDbEntity
+  8
+Construction
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+101.3
+ 20
+-3.183976519938181e-016
+ 11
+101.3
+ 21
+5
+  0
+LINE
+  5
+50
+100
+AcDbEntity
+  8
+Construction
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+100
+ 20
+0
+ 11
+105
+ 21
+0
+  0
+LINE
+  5
+51
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+100
+ 20
+0
+ 11
+101.3
+ 21
+0
+  0
+LINE
+  5
+52
+100
+AcDbEntity
+  8
+0
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+100
+ 20
+0
+ 11
+99.51916738879315
+ 21
+0.4808326112068524
   0
 ENDSEC
   0
