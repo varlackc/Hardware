@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-ConstructionB
+Text
   9
 $CELTYPE
   6
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-359.0419040684748
+359.0419040684749
  22
-187.5326308853521
+187.5326308853522
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-625.5044080796238
+625.504408079624
  41
 1.944971537001898
  42
@@ -2331,6 +2331,28 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
+GreenNotes
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+4E
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
 PaperLine
  70
     0
@@ -2345,7 +2367,29 @@ F
   0
 LAYER
   5
-4E
+4F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+RedNotes
+ 70
+    0
+ 62
+    1
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+50
 330
 2
 100
@@ -2381,7 +2425,7 @@ AcDbSymbolTable
   0
 STYLE
   5
-4F
+51
 330
 2
 100
@@ -2465,7 +2509,7 @@ ACAD
   0
 APPID
   5
-50
+52
 330
 9
 100
@@ -2497,7 +2541,7 @@ AcDbDimStyleTable
   0
 DIMSTYLE
 105
-51
+53
 330
 A
 100
