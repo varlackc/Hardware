@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-Text
+greenNotes
   9
 $CELTYPE
   6
@@ -1115,7 +1115,7 @@ AcDbViewportTableRecord
  21
 1
  12
-359.0419040684749
+359.041904068475
  22
 187.5326308853522
  13
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-625.504408079624
+625.5044080796241
  41
 1.944971537001898
  42
@@ -2409,6 +2409,30 @@ CONTINUOUS
 390
 F
   0
+LAYER
+  5
+51
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+greenNotes
+ 70
+    0
+ 62
+   96
+420
+32768
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
 ENDTAB
   0
 TABLE
@@ -2425,7 +2449,7 @@ AcDbSymbolTable
   0
 STYLE
   5
-51
+52
 330
 2
 100
@@ -2509,7 +2533,7 @@ ACAD
   0
 APPID
   5
-52
+53
 330
 9
 100
@@ -2541,7 +2565,7 @@ AcDbDimStyleTable
   0
 DIMSTYLE
 105
-53
+54
 330
 A
 100
