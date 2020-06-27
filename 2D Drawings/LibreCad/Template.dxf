@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-greenNotes
+DetailConstruction
   9
 $CELTYPE
   6
@@ -2331,6 +2331,32 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
+DetailConstruction
+ 70
+    0
+ 62
+    4
+  6
+CONTINUOUS
+370
+    0
+390
+F
+1001
+LibreCad
+1070
+    1
+  0
+LAYER
+  5
+4E
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
 GreenNotes
  70
     0
@@ -2345,7 +2371,33 @@ F
   0
 LAYER
   5
-4E
+4F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+LargeConstruction
+ 70
+    0
+ 62
+    4
+  6
+CONTINUOUS
+370
+    0
+390
+F
+1001
+LibreCad
+1070
+    1
+  0
+LAYER
+  5
+50
 330
 2
 100
@@ -2367,7 +2419,7 @@ F
   0
 LAYER
   5
-4F
+51
 330
 2
 100
@@ -2389,7 +2441,7 @@ F
   0
 LAYER
   5
-50
+52
 330
 2
 100
@@ -2411,7 +2463,7 @@ F
   0
 LAYER
   5
-51
+53
 330
 2
 100
@@ -2449,7 +2501,7 @@ AcDbSymbolTable
   0
 STYLE
   5
-52
+54
 330
 2
 100
@@ -2533,7 +2585,7 @@ ACAD
   0
 APPID
   5
-53
+55
 330
 9
 100
@@ -2565,7 +2617,7 @@ AcDbDimStyleTable
   0
 DIMSTYLE
 105
-54
+56
 330
 A
 100
