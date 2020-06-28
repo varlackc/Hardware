@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-0
+Hatching
   9
 $CELTYPE
   6
@@ -1117,7 +1117,7 @@ AcDbViewportTableRecord
  12
 359.041904068475
  22
-187.5326308853522
+187.5326308853523
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-625.5044080796241
+625.5044080796243
  41
 1.944971537001898
  42
@@ -2379,6 +2379,50 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
+Hatching
+ 70
+    0
+ 62
+    7
+  6
+CONTINUOUS
+370
+    0
+390
+F
+  0
+LAYER
+  5
+50
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+HiddenLine
+ 70
+    0
+ 62
+    7
+  6
+DASHED
+370
+    0
+390
+F
+  0
+LAYER
+  5
+51
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
 LargeConstruction
  70
     0
@@ -2397,7 +2441,7 @@ LibreCad
   0
 LAYER
   5
-50
+52
 330
 2
 100
@@ -2419,7 +2463,7 @@ F
   0
 LAYER
   5
-51
+53
 330
 2
 100
@@ -2441,7 +2485,7 @@ F
   0
 LAYER
   5
-52
+54
 330
 2
 100
@@ -2463,7 +2507,7 @@ F
   0
 LAYER
   5
-53
+55
 330
 2
 100
@@ -2485,7 +2529,7 @@ F
   0
 LAYER
   5
-54
+56
 330
 2
 100
@@ -2507,7 +2551,7 @@ F
   0
 LAYER
   5
-55
+57
 330
 2
 100
@@ -2529,7 +2573,7 @@ F
   0
 LAYER
   5
-56
+58
 330
 2
 100
@@ -2567,7 +2611,7 @@ AcDbSymbolTable
   0
 STYLE
   5
-57
+59
 330
 2
 100
@@ -2651,7 +2695,7 @@ ACAD
   0
 APPID
   5
-58
+5A
 330
 9
 100
@@ -2683,7 +2727,7 @@ AcDbDimStyleTable
   0
 DIMSTYLE
 105
-59
+5B
 330
 A
 100
