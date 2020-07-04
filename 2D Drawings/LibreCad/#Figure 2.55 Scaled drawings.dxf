@@ -5097,6 +5097,174 @@ AcDbLine
  21
 0.9399999999999993
   0
+LINE
+  5
+B3
+100
+AcDbEntity
+  8
+LargeConstruction
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1.5625
+ 20
+-1.655237904206464e-016
+ 11
+1.5625
+ 21
+0.9399999999999998
+  0
+LINE
+  5
+B4
+100
+AcDbEntity
+  8
+LargeConstruction
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3.375
+ 20
+-6.783277010837668e-016
+ 11
+3.375
+ 21
+0.9399999999999994
+  0
+LINE
+  5
+B5
+100
+AcDbEntity
+  8
+LargeConstruction
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+1.9375
+ 20
+-2.573692669573246e-016
+ 11
+1.9375
+ 21
+0.9399999999999997
+  0
+LINE
+  5
+B6
+100
+AcDbEntity
+  8
+LargeConstruction
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+3
+ 20
+-6.324049628154277e-016
+ 11
+3
+ 21
+0.9399999999999994
+  0
+LINE
+  5
+B7
+100
+AcDbEntity
+  8
+LargeConstruction
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.9999999999999999
+ 20
+-1.5625
+ 11
+1.94
+ 21
+-1.5625
+  0
+LINE
+  5
+B8
+100
+AcDbEntity
+  8
+LargeConstruction
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.9999999999999999
+ 20
+-1.46875
+ 11
+1.94
+ 21
+-1.46875
+  0
+LINE
+  5
+B9
+100
+AcDbEntity
+  8
+LargeConstruction
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+0.9999999999999999
+ 20
+-1.65625
+ 11
+1.94
+ 21
+-1.65625
+  0
 ENDSEC
   0
 SECTION
