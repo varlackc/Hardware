@@ -3023,81 +3023,9 @@ AcDbLine
  21
 0
   0
-LINE
-  5
-5D
-100
-AcDbEntity
-  8
-Construction
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
--2.775557561562891e-017
- 20
--2.775557561562891e-017
- 11
-2.980092301402282e-017
- 21
-0.9399999999999999
-  0
-LINE
-  5
-5E
-100
-AcDbEntity
-  8
-Construction
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-1
- 20
--2.726768463801044e-016
- 11
-1
- 21
-0.9399999999999997
-  0
-LINE
-  5
-5F
-100
-AcDbEntity
-  8
-Construction
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-2
- 20
--5.175981171445798e-016
- 11
-2
- 21
-0.9399999999999995
-  0
 CIRCLE
   5
-60
+5D
 100
 AcDbEntity
   8
@@ -3119,31 +3047,7 @@ AcDbCircle
   0
 LINE
   5
-61
-100
-AcDbEntity
-  8
-Construction
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-5
- 20
--1.252361929438006e-015
- 11
-5
- 21
-0.9399999999999987
-  0
-LINE
-  5
-62
+5E
 100
 AcDbEntity
   8
@@ -3167,7 +3071,7 @@ AcDbLine
   0
 CIRCLE
   5
-63
+5F
 100
 AcDbEntity
   8
@@ -3189,7 +3093,7 @@ AcDbCircle
   0
 CIRCLE
   5
-64
+60
 100
 AcDbEntity
   8
@@ -3209,105 +3113,9 @@ AcDbCircle
  40
 0.6000000000000014
   0
-LINE
-  5
-65
-100
-AcDbEntity
-  8
-Construction
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-7
- 20
--1.742204470966957e-015
- 11
-7
- 21
-0.9399999999999983
-  0
-LINE
-  5
-66
-100
-AcDbEntity
-  8
-Construction
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-3
- 20
--1.007440658673531e-015
- 11
-3
- 21
-0.9399999999999989
-  0
-LINE
-  5
-67
-100
-AcDbEntity
-  8
-Construction
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-6.25
- 20
--1.5585135178936e-015
- 11
-6.25
- 21
-0.9399999999999984
-  0
-LINE
-  5
-68
-100
-AcDbEntity
-  8
-Construction
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-3.75
- 20
--1.099286135210209e-015
- 11
-3.75
- 21
-0.9399999999999988
-  0
 CIRCLE
   5
-69
+61
 100
 AcDbEntity
   8
@@ -3329,7 +3137,7 @@ AcDbCircle
   0
 CIRCLE
   5
-6A
+62
 100
 AcDbEntity
   8
@@ -3351,7 +3159,7 @@ AcDbCircle
   0
 CIRCLE
   5
-6B
+63
 100
 AcDbEntity
   8
@@ -3373,7 +3181,7 @@ AcDbCircle
   0
 ARC
   5
-6C
+64
 100
 AcDbEntity
   8
@@ -3401,7 +3209,7 @@ AcDbArc
   0
 ARC
   5
-6D
+65
 100
 AcDbEntity
   8
