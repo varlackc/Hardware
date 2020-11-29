@@ -7,3 +7,4 @@ Some of the materials included in the repository include:
 - 3D Models
 - 3D Modeling Exercises
 - G-Code for 3D Prints
+- Graphical communications
