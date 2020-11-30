@@ -8,3 +8,9 @@ Some of the materials included in the repository include:
 - 3D Modeling Exercises
 - G-Code for 3D Prints
 - Graphical communications
+
+## Task
+Build a repository of mechanical engineering related material.
+
+## Criteria
+Create different folders in order to organized all of the mechanical engineering related material. 
