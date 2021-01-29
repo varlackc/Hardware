@@ -1,4 +1,4 @@
-# Hardware Repository
+# Repositorio de Projectos Mecanicos
 This repository contains a lot of hardware related projects. 
 Some of the materials included in the repository include:
 - Blue Prints
