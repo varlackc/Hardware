@@ -1,16 +1,11 @@
-# Repositorio de Hardware (partes Mecanicas)
-This repository contains a lot of hardware related projects. 
-Some of the materials included in the repository include:
-- Blue Prints
-- Mechanical Parts
-- 2D Drawing Exercises
-- 3D Models
-- 3D Modeling Exercises
-- G-Code for 3D Prints
-- Graphical communications
+# Repositorio de Hardware (Projectos Mecanicos)
+Este repositorio contiene varios projectos mecanicos. 
+Algunos de los proyectos incluidos en este repositorio incluyen: 
+- Planos
+- Partes Mecanicas
+- Ejercisios de dibujos tecnicos en 2D
+- Modelos 3D
+- Ejercisios de Modelos 3D
+- G-Code para impresion de 3D
+- Communicacion Visual
 
-## Task
-Build a repository of mechanical engineering related material.
-
-## Criteria
-Create different folders in order to organized all of the mechanical engineering related material. 
