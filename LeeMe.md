@@ -9,3 +9,8 @@ Algunos de los proyectos incluidos en este repositorio incluyen:
 - G-Code para impresion de 3D
 - Communicacion Visual
 
+## Tareas
+Crear un repositorio de materiales relacionados a la ingenieria mecanica. 
+
+## Requisitos 
+Crear un folder diferente para organizar todos los materiales de ingenieria mechanica. 
