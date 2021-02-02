@@ -1,4 +1,4 @@
-#FreeCAD 3D Drawings
+# Modelos en 3D de FreeCAD
 
-Drawings, 3D models and assemblies using FreeCAD. 
-Models can be combine as modules to create more complex geometries and assemblies.
+Dibujos, modelos 3D y ensambles usando FreeCAD. 
+Los modelos pueden ser combinados para crear geometrias y ensambles mas complejos.
