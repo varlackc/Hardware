@@ -6,7 +6,7 @@ Algunos de los proyectos incluidos en este repositorio incluyen:
 - Ejercisios de dibujos tecnicos en 2D
 - Modelos 3D
 - Ejercisios de Modelos 3D
-- G-Code para impresion de 3D
+- Codigo-G para impresion de 3D 
 - Communicacion Visual
 
 ## Tareas
