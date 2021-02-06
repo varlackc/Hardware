@@ -1,3 +1,3 @@
 # Recursos Utiles Para Ingenieria y Dibujos Tecnicos
 
-The Useful.xlsx spreadsheet contains useful calculations that can be used in the engineering process. 
+El archivo Useful.xlsx contiene calculos utiles que pueden ser utilizados en processos de ingenieria. 
